@@ -1,3 +1,11 @@
+# Cryptoverse
+
+A React Cryptocurrency App which gives you all the information about cryptocurrencies.
+
+### [Live Site](https://cryptoversebysamridhi.netlify.app)
+
+<img width="1440" alt="3" src="https://user-images.githubusercontent.com/91188761/149633370-50a27237-fdce-4fd3-8794-f6a0b19b9484.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
